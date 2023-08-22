@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-========================================================================================================================
+
 
 As artificial intelligence (AI) technologies become more prevalent in the modern office, it is important for organizations to consider the ethical implications of their use. In this chapter, we will discuss key considerations for developing governance frameworks that can help ensure responsible AI use.
 
