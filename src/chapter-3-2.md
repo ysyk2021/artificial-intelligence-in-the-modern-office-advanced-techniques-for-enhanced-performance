@@ -1,5 +1,4 @@
 
-
 Before implementing artificial intelligence (AI) in the modern office, it is important to evaluate the availability and quality of data that will be used to train AI models. In this chapter, we will discuss key considerations for evaluating data and preparing it for AI implementation.
 
 Evaluating Data Availability

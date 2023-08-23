@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how to measure the impact of AI on office performance and automation. Measuring the effectiveness of AI can help organizations identify areas for improvement and continuously adapt their approach to maximize the benefits of AI.
 
 Assessing the effectiveness of AI for office performance and automation

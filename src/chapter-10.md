@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) technologies continue to transform the modern office environment, it is important for organizations to consider the ethical implications of their use. In this chapter, we will discuss the ethical considerations for AI implementation in the modern office, the development of governance frameworks to ensure responsible AI use, and legal and regulatory considerations for AI implementation.
 
 Ethical considerations for AI implementation in the modern office

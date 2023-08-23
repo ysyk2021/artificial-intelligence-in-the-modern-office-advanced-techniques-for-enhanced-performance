@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become an essential tool for enhancing performance and automation in the modern office. In this chapter, we will discuss the different types of AI technologies that organizations can use to improve their productivity and efficiency.
 
 Machine Learning Algorithms

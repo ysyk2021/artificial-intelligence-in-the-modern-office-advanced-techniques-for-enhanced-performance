@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is an umbrella term that encompasses a broad range of technologies and applications. In the modern office, AI refers to the use of technology to automate processes, optimize performance, and enhance decision-making.
 
 Defining AI in the Modern Office

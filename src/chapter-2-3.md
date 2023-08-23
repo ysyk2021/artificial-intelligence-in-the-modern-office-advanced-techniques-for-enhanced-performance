@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) can provide several benefits for improving productivity and efficiency in the modern office. In this chapter, we will discuss some of the key benefits of using AI technologies.
 
 Automating Routine Tasks

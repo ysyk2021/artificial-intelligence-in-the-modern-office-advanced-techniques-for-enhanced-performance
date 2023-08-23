@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes more prevalent in the modern office, it is important for organizations to understand the legal and regulatory considerations associated with its implementation. In this chapter, we will discuss key considerations for ensuring legal and regulatory compliance when implementing AI in the modern office.
 
 Understanding Legal and Regulatory Considerations
